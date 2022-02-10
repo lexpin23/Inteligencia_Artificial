@@ -2,6 +2,7 @@ Inteligencia Artificial
 
 <h2>Tarea #2</h2>
 <b>Historia de la Inteligencia Artificial</b>
+<br>
 <i>Instrucciones:</i>
 
 Investigar sobre la historia de la inteligencia artificial y crear un resumen/notas sobre lo investigado. Se puede utilizar cualquier fuente de información de su preferencia (hay libros en su repositorio)

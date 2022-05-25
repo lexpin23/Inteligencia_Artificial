@@ -1,5 +1,3 @@
-Inteligencia Artificial
-
 <h2>Inteligencia Artificial</h2>
 <b>La inteligencia artificial aprende astronomía</b>
 <br>

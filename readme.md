@@ -1,11 +1,17 @@
 Inteligencia Artificial
 
-<h2>Tarea #2</h2>
-<b>Historia de la Inteligencia Artificial</b>
+<h2>Inteligencia Artificial</h2>
+<b>La inteligencia artificial aprende astronomía</b>
 <br>
-<i>Instrucciones:</i>
+<i>Sinopsis:</i>
 
-Investigar sobre la historia de la inteligencia artificial y crear un resumen/notas sobre lo investigado. Se puede utilizar cualquier fuente de información de su preferencia (hay libros en su repositorio)
-El día 16/Feb la clase consistirá en una discusión sobre esta investigación.
+La inteligencia artificial no sólo es capaz de reconocer caras humanas u objetos, ahora es posible detectar e identificar galaxias
+en el espacio profundo. ¿De qué manera la inteligencia artificial ha sido de gran ayuda en este campo de la humanidad? ¿Qué tanto impacto tiene?
 
-Entregable: Foto de al menos 4 cuartillas con apuntes/resumen (UNA CUARTILLA es considerada como una medida de escritura, la cual corresponde a una hoja con una medida específica de 14,8 x 21 cm)
+Siendo la astronomía una de las áreas más fascinantes para muchos de los amantes de la inmesidad astral, la inteligencia artificial 
+no podía quedar atrás sin aplicarse sobre esta área. ¿Realmente importa implementar métodos u algoritmos para poder observar el universo? Porque claro,
+no falta aquel que diga: "El verdadero arte transcurre en experimentar por tí mismo la belleza del universo", sin embargo, es posible apreciar este arte
+utilizando máquinas que nos ayuden a detectar cosas que jamás hemos visto en nuestra vida, de forma más rápida, a pasos agigantados.
+
+Esta investigación habla precisamente sobre eso, de cómo la inteligencia artificial puede aprender a identificar objetos, eventos, estructuras astronómicos. Sí,
+las máquinas pueden aprender astronomía, y que nos podrán regalar las imágenes más increíbles jamás antes vista.
